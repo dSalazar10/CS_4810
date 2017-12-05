@@ -1,1 +1,1 @@
-Private repository of class slides for personal reference.
+Repository of class slides for personal reference.
