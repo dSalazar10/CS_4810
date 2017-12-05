@@ -17,3 +17,4 @@ https://www.bloomberg.com/news/articles/2017-09-13/ex-citi-ceo-pandit-says-30-of
 https://www.theguardian.com/world/2017/sep/18/soviet-officer-who-averted-cold-war-nuclear-disaster-dies-aged-77
 https://stackoverflow.com/questions/1538235/what-are-good-examples-of-genetic-algorithms-genetic-programming-solutions
 https://www.investopedia.com/university/charts/?lgl=rira-layout
+https://stackoverflow.com/questions/19337890/how-to-add-an-existing-framework-in-xcode-5
