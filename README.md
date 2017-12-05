@@ -9,3 +9,11 @@ NetLogo, Gecode, and OpenCV were what was used in the class.
 https://ccl.northwestern.edu/netlogo/
 http://www.gecode.org
 https://opencv.org
+
+
+Links provided in the class:
+https://medicalxpress.com/news/2017-09-ai-queer-sexuality-misconceived-dangerous.html
+https://www.bloomberg.com/news/articles/2017-09-13/ex-citi-ceo-pandit-says-30-of-bank-jobs-at-risk-from-technology
+https://www.theguardian.com/world/2017/sep/18/soviet-officer-who-averted-cold-war-nuclear-disaster-dies-aged-77
+https://stackoverflow.com/questions/1538235/what-are-good-examples-of-genetic-algorithms-genetic-programming-solutions
+https://www.investopedia.com/university/charts/?lgl=rira-layout
