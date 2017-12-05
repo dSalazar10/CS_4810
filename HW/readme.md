@@ -1,6 +1,6 @@
 From "Person of Interest"'s AI system boot loader (for fun/inspiration):
 
-CORE ANALYTICS
+CORE ANALYTICS 
 NEURAL NETWORKS
 HEURISTIC ENGINES
 RECURSION PROCESSORS
