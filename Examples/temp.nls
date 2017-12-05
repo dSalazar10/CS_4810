@@ -1,0 +1,45 @@
+; trying out NetLogo syntax, various commands
+; not a real model
+
+; display 1 to num
+to show-num [num]
+  let counter 1
+  while [counter <= num] [
+    show counter
+    set counter counter + 1
+  ]
+end
+
+; initialize and return a 2-dimensional list
+to-report make-2d [rows columns]
+  report n-values rows [ n-values columns [0] ]
+end
+
+; update element of 2-dimensional list
+; from https://stackoverflow.com/questions/23182872/how-to-do-replacing-item-in-use-nested-list
+to-report update [matrix row col val]
+  let current_row item row matrix
+  report replace-item row matrix (replace-item col current_row val)
+end
+
+; show how replace-item does not change list in place
+to try-update
+  let temp [[1 2 3] [4 5 6]]
+  show update temp 0 2 8
+  show temp
+  set temp update temp 0 2 8
+  show temp
+end
+
+to-report init-matrix [matrix chooser]
+  let row 0
+  while [row < length matrix] [
+    let col 0
+    while [col < length item row matrix] [
+      set matrix update matrix row col (runresult chooser)
+      set col col + 1
+    ]
+    set row row + 1
+  ]
+  report matrix
+end
