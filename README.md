@@ -6,6 +6,7 @@ Considering this class was a survey course, the assignments were all over the pl
 I am sure to become more efficient once I take the Machine Learning and Computer Vision courses.
 
 NetLogo, Gecode, and OpenCV were what was used in the class.
+
 https://ccl.northwestern.edu/netlogo/
 http://www.gecode.org
 https://opencv.org
